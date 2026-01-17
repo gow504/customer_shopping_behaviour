@@ -50,9 +50,11 @@ Python (Jupyter Notebook) – Data exploration and preprocessing
 SQL – Querying and structured data analysis
 
 Excel – Initial data inspection and validation
-
+# download dataset here:
+<a href= 
 
 # Dashboard Preview
+<img width="1344" height="752" alt="customer_shopping_behaviour" src="https://github.com/user-attachments/assets/8ebaf04c-eac2-4b51-bf20-a0c3b71a29f9" />
 
 
 Highlights key customer segments driving revenue
