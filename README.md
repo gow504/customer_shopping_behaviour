@@ -51,7 +51,7 @@ SQL – Querying and structured data analysis
 
 Excel – Initial data inspection and validation
 # download dataset here:
-<a href= 
+<a href= "https://github.com/gow504/customer_shopping_behaviour/blob/main/customer_shopping_behavior.xlsx"> DOWNLOAD DATASET HERE</a>
 
 # Dashboard Preview
 <img width="1344" height="752" alt="customer_shopping_behaviour" src="https://github.com/user-attachments/assets/8ebaf04c-eac2-4b51-bf20-a0c3b71a29f9" />
