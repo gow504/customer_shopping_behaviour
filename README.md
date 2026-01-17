@@ -57,5 +57,13 @@ Excel – Initial data inspection and validation
 <img width="1344" height="752" alt="customer_shopping_behaviour" src="https://github.com/user-attachments/assets/8ebaf04c-eac2-4b51-bf20-a0c3b71a29f9" />
 
 
+# AUTHORS
+EMAIL: sanapagowtham068@gmail.com
+
+GITHUB:https://github.com/gow504
+
+linkedin :www.linkedin.com/in/sanapa-gowtham-b87058265
+
+
 Highlights key customer segments driving revenue
 Supports marketing, inventory, and subscription strategy decisions
